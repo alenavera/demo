@@ -14,7 +14,7 @@ import io.cucumber.junit.CucumberOptions;
         features = "src/test/resources/features/",
         glue = "com/app/step_definitions/",
         dryRun = true,
-        tags = "@korol",
+        tags = "@lili",
         publish = true
 )
 
